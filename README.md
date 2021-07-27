@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rchou186
-- 👀 I’m interested in creating business and make life better.
+- 👀 I’m interested in creating business and making life better.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
